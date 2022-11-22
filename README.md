@@ -9,7 +9,7 @@ Projeto no qual você pode incluir tarefas, excluir e assinalar o que foi feito.
 
 #
 
-Clique ➡️ <a href ="https://todolistanapita.netlify.app/"> aqui </a> para acessar esse projeto. 
+Clique ➡️ <a href ="https://todolistanapita.netlify.app/" target="_blank"> aqui </a> para acessar esse projeto. 
 
 ## Tecnologias utilizadas: 
 

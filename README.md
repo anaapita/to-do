@@ -3,8 +3,8 @@
 Projeto no qual você pode incluir tarefas, excluir e assinalar o que foi feito. 
 
 <div align="center" >
-  <img src="https://user-images.githubusercontent.com/95833334/203200846-33005060-ad68-42fb-a539-8154151671a5.png" >
-  <img src="https://user-images.githubusercontent.com/95833334/203200856-39560fab-5495-410a-a732-980c0f3a8068.png">
+  <img src="https://user-images.githubusercontent.com/95833334/203200846-33005060-ad68-42fb-a539-8154151671a5.png" alt="to-do-image-1" >
+  <img src="https://user-images.githubusercontent.com/95833334/203200856-39560fab-5495-410a-a732-980c0f3a8068.png" alt="to-do-image-2">
 </div>
 
 #
